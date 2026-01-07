@@ -50,9 +50,9 @@ export function Layout({ children }: { children: React.ReactNode }) {
             </div>
           </div>
           <div className="flex items-center gap-4">
-            <span className="text-accent font-semibold">
-              Free delivery on orders over $25
-            </span>
+           <span className="text-accent font-semibold">
+  Enjoy free delivery on your first order
+</span>
           </div>
         </div>
       </div>
