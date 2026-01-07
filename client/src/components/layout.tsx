@@ -42,11 +42,11 @@ export function Layout({ children }: { children: React.ReactNode }) {
           <div className="flex items-center gap-6">
             <div className="flex items-center gap-2">
               <Phone className="w-3 h-3" />
-              <span>(555) 123-4567</span>
+              <span>923182183246</span>
             </div>
             <div className="flex items-center gap-2">
               <MapPin className="w-3 h-3" />
-              <span>123 Gourmet Street</span>
+              <span>gustokart355@gmail.com</span>
             </div>
           </div>
           <div className="flex items-center gap-4">
